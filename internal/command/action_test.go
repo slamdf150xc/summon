@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cyberark/summon/secretsyml"
+	"github.com/slamdf150xc/summon/secretsyml"
 	. "github.com/smartystreets/goconvey/convey"
 	_ "golang.org/x/net/context"
 )
