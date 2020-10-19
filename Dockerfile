@@ -3,7 +3,7 @@ FROM golang:1.13-alpine
 WORKDIR /summon
 
 ENV GOOS=linux
-ENV GOARCH=amd64
+ENV GOARCH=arm
 
 COPY go.mod go.sum ./
 
