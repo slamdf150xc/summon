@@ -11,8 +11,8 @@ import (
 	"syscall"
 
 	"github.com/codegangsta/cli"
-	prov "github.com/cyberark/summon/provider"
-	"github.com/cyberark/summon/secretsyml"
+	prov "github.com/slamdf150xc/summon/provider"
+	"github.com/slamdf150xc/summon/secretsyml"
 )
 
 // ActionConfig is an object that holds all the info needed to run
