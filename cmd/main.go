@@ -6,8 +6,8 @@ import (
 	"os"
 
 	"github.com/codegangsta/cli"
-	"github.com/cyberark/summon/internal/command"
-	"github.com/cyberark/summon/pkg/summon"
+	"github.com/slamdf150xc/summon/internal/command"
+	"github.com/slamdf150xc/summon/pkg/summon"
 )
 
 var (

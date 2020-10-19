@@ -1,4 +1,4 @@
-module github.com/cyberark/summon
+module github.com/slamdf150xc/summon
 
 require (
 	github.com/codegangsta/cli v1.20.0
